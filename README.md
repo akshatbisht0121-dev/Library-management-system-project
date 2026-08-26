@@ -12,3 +12,6 @@ project/
 └── frontend/
     ├── index.html          ← markup + your JS (fetch calls to the API)
     └── styles.css           ← new file, extracted from index.html
+#PROJECT STRUCTURE
+![Project Image](project_folder_structure.png)
+    
